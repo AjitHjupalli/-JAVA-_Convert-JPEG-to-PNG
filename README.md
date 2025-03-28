@@ -17,3 +17,6 @@ I accomplished this task in two ways
 
 ### Using GUI
 Just run the converter_GUI.py script and pick any jpeg image from any location and then press 'Convert Jpeg to Png'
+
+
+![Image](https://github.com/user-attachments/assets/1db129b6-3c98-4cc6-88ac-1295978cd3cf)
