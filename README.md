@@ -20,3 +20,7 @@ Just run the converter_GUI.py script and pick any jpeg image from any location a
 
 
 ![Image](https://github.com/user-attachments/assets/1db129b6-3c98-4cc6-88ac-1295978cd3cf)
+
+### 🚀 My Java Projects
+- [🖼 Convert JPEG to PNG](https://github.com/AjitHjupalli/-JAVA-_Convert-JPEG-to-PNG.git) - A Java program to convert JPEG images to PNG format.
+
